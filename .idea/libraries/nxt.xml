@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="nxt">
+    <CLASSES>
+      <root url="file://C:/Program Files (x86)/leJOS NXJ/lib/nxt" />
+      <root url="file://C:/Program Files (x86)/leJOS NXJ/lib/pc" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/Program Files (x86)/leJOS NXJ/lib/nxt" />
+      <root url="file://C:/Program Files (x86)/leJOS NXJ/lib/pc" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files (x86)/leJOS NXJ/lib/nxt" recursive="false" />
+    <jarDirectory url="file://C:/Program Files (x86)/leJOS NXJ/lib/pc" recursive="false" />
+    <jarDirectory url="file://C:/Program Files (x86)/leJOS NXJ/lib/nxt" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://C:/Program Files (x86)/leJOS NXJ/lib/pc" recursive="false" type="SOURCES" />
+  </library>
+</component>
